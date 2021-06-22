@@ -1,4 +1,4 @@
-![Krakend logo](https://github.com/devopsfaith/krakend/blob/master/docs/images/krakend.png)
+![Krakend logo](https://github.com/luraproject/lura/blob/49e7191920bc964f814c7985b43c0552fe8f1175/docs/images/krakend.png)
 
 # KrakenD API Gateway
 Ultra-High performance API Gateway with middlewares
